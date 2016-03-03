@@ -2,7 +2,8 @@
 #                                                     #
 #                                                     #
 #                  ŞİFRELEME v.1                      #
-#                                                     #
+#     SİSTEMDEN ALINAN BİLGİLER GÖNDERİLMEDEN ÖNCE    #
+#                ŞİFRELEME YAPILIR                    #
 #                                                     #
 #######################################################
 
