@@ -16,6 +16,11 @@ class Dosya_islemleri:
         with open("Test.txt","w") as dosya:
             dosya.write(ekle)
 
+    def Guncelle(dosya):
+        global upd
+        with open("Test.txt","a") as dosya:
+            dosya.write(upd)
+            
     def Oku(dosya):
         with open("Test.txt", "r") as dosya:
             print(dosya.read())
