@@ -6,11 +6,7 @@
 #                                                     #
 #######################################################
 
-#from tkinter import *
-#from Dosya_islemleri import *
 
-#pencere = Tk()
-#pencere.title("Şifreleme Test")
 from datetime import date
 
 from gi.overrides.keysyms import End
@@ -18,8 +14,6 @@ from gi.overrides.keysyms import End
 
 def geriCevir(x):
     return chr(x)
-
-#def yapistir():
 
 with open("Test.txt", "r") as dosya:
     oku = dosya.read()
