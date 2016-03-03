@@ -12,8 +12,9 @@ class Dosya_islemleri:
         dosya = open("Test.txt","w")
 
     def Yaz(dosya):
+        global ekle
         with open("Test.txt","w") as dosya:
-            dosya.write("Muhammed Nur")
+            dosya.write(ekle)
 
     def Oku(dosya):
         with open("Test.txt", "r") as dosya:
