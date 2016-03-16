@@ -83,7 +83,7 @@ The Program Development Process
 
 (03/03/2016) : Sifreleme.py system was installed on the Dosya_islemleri.py and written to the program.
 
-(01/03/2016) Keylogger.py began to be coded by key definitions. 
+(01/03/2016) : Keylogger.py began to be coded by key definitions. 
 
 (05/03/2016) : Keylogger.py testing began.
 
