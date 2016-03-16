@@ -6,6 +6,8 @@
 #                                                     #
 #######################################################
 
+#deneme
+
 class Dosya_islemleri:
 
     def Olustur(dosya):
