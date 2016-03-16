@@ -73,7 +73,7 @@ The problems Encountered In The Program
 The Program Development Process
 ---------------------------------------
 
-(26/02/2016) As part of the program's introduction written Dosya_islemleri.py to txt file.
+(26/02/2016) : As part of the program's introduction written Dosya_islemleri.py to txt file.
 
 (26/02/2016) : It placed Sifreleme.py to encrypt the TXT file. Here Caesar was used encryption algorithm. (It can be changed in the future!) 
 
