@@ -49,6 +49,11 @@ Programın Gelişim Süreci
 
 (11/03/2016) : Keylogger.py ALT-GR tuş fonksiyonu yapıldı.
 
+(15/03/2016) : Mail.py eklendi.
+
+(20/03/2016) : Mail.py sistem bilgilerinin gönderilmesi eklendi.
+
+
 Linux-Keylogger
 ---------------------------------------
 Programs running on Linux and leaking information to us
@@ -94,3 +99,7 @@ The Program Development Process
 (09/03/2016) : Keylogger.py the numpad keys (Numpad "Enter" key, except) and F function keys ("F11") is described.
 
 (11/03/2016) : Keylogger.py ALT-GR key functionality.
+
+(15/03/2016) : Mail.py has been added. 
+
+(20/03/2016) : Mail.py the sending of system information added.
