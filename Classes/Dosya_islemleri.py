@@ -1,17 +1,15 @@
 #######################################################
 #                                                     #
 #                                                     #
-#                DOSYA İŞLEMLERİ v.1.1                #
+#                   DOSYA İŞLEMLERİ                   #
 #                                                     #
 #                                                     #
 #######################################################
 
-#deneme
-
 class Dosya_islemleri:
 
-    def Olustur(dosya):
-        dosya = open("Test.txt","w")
+    def mail(dosya):
+        dosya = open("Test.txt","rb")
 
     def Yaz(dosya):
         with open("Test.txt","w") as dosya:
