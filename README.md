@@ -53,6 +53,7 @@ Programın Gelişim Süreci
 
 (20/03/2016) : Mail.py sistem bilgilerinin gönderilmesi eklendi.
 
+(02/02/2017) : Proje tamamlandı eksikler ve hatalar giderildi. Yeni özellikler eklendi. Son sürüm gizlilik ve kötüye kullanım ihtimalinden dolayı eklenmedi.
 
 Linux-Keylogger
 ---------------------------------------
@@ -103,3 +104,5 @@ The Program Development Process
 (15/03/2016) : Mail.py has been added. 
 
 (20/03/2016) : Mail.py the sending of system information added.
+
+(02/02/2017) : The project was completed the shortcomings and bugs have been fixed. New features have been added. The latest version is privacy and because of the possibility of abuse was not included. 
